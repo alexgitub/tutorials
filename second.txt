@@ -1,2 +1,3 @@
 This is a second text file made
 changes to second
+these are changes to the second file
